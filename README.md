@@ -1,7 +1,5 @@
 # hello-world
 快速入门
-# hello-world
-快速入门
 # Markdown学习
 ## 1 Markdown.com.cn 简介
 
